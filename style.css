@@ -1,0 +1,74 @@
+.navbar1{
+  display:flex;
+}
+.colums{
+    gap:50%;
+    -webkit-text-fill-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.images{
+    margin-left: 68%;
+    gap: 10%;
+}
+button{
+    background-color: rgb(46, 45, 45);
+    -webkit-text-fill-color: white;
+
+
+}
+#main1{
+    display:flex;
+    border:solid 2px white;
+    padding-left: 5%;
+    
+}
+.photo{
+    margin-left:40%;
+
+    
+
+}
+p{
+    font-size: xx-large;
+}
+h1{
+    font-size: xx-large;
+    text-align: left;
+ 
+}
+.p2{
+    padding-left: 5%;
+
+}
+#main2{
+    display: flex;
+}
+.category1{
+  margin-left: 60%; 
+  -webkit-text-fill-color: rgb(146, 143, 143);
+  column-gap: 20%;
+
+}
+.photos2{
+    display: flex;
+    column-gap: 10%;
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-bottom: 80%;
+}
+.photos3{
+    display: flex;
+}
+.middle{
+    margin-left:5%;
+    margin-top: 50%;
+    display: flex;
+
+}
+.sitting{
+    margin-left: 25%;
+}
+    
+
+    
